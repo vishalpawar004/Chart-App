@@ -7,7 +7,8 @@ Support for multiple chart types (Line, Bar, Pie, etc.).
 Lightweight and customizable.
 Built with modern web technologies.
 
-(https://github.com/user-attachments/assets/25839af1-0560-4869-a465-d7b132f0686e)
+
+![Screenshot 2024-12-06 182103](https://github.com/user-attachments/assets/dc659ca0-c5c8-48f8-a2c5-657696f679c3)
 
 
 Node.js: Backend server.
