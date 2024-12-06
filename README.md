@@ -8,9 +8,10 @@ Lightweight and customizable.
 Built with modern web technologies.
 Demo
 
-Add a screenshot of your app here.
 
-Technologies Used
+
+Technologies Used![Screenshot 2024-12-06 182103](https://github.com/user-attachments/assets/25839af1-0560-4869-a465-d7b132f0686e)
+
 Node.js: Backend server.
 Socket.IO: Real-time communication.
 Chart.js: Chart visualization.
